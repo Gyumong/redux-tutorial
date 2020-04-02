@@ -5,7 +5,7 @@ const counter=document.querySelector('h1');
 const btnIncrease=document.querySelector('#increase');
 const btnDecrease=document.queryCommandValue('#decrease');
 
-const TOGGLE_SWITCH='TOGGLE_SWITCH';
+const TOGGLE_SWITCH='TOGGLE_SWITCH';d
 const INCREASE='INCREASE';
 const DECREASE='DECREASE';
 

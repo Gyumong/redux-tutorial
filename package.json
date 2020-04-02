@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Gyumong/redux-tutorial.git",
   "author": "Gyumong <rlaalsrb3559@naver.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
 }
